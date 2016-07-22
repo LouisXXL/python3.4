@@ -1,0 +1,5 @@
+print(range(10))
+print(list(range(10)))
+print(list(range(3,15,4)))
+print(list(range(10,-14,-3)))
+print(tuple(range(-7,24,5)))
